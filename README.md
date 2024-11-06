@@ -1,4 +1,5 @@
-Document-Capture-OCR-Text-Scanner
+Document-Capture-OCR-Text-Scanner :
+
 Document-Capture-OCR-Text-Scanner is a robust tool designed to extract text from images, focusing specifically on Indian passports and driving licenses. With an intuitive interface and seamless data extraction, it simplifies the process of OCR (Optical Character Recognition) for Indian government-issued documents.
 
 Key Features
