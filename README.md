@@ -16,7 +16,6 @@ Frontend
 React: Used for building the user interface, ensuring a dynamic and responsive experience.
 Tailwind CSS: Provides styling for a clean, modern look and feel.
 
-
 Installation Guide
 To get started with OCR-Text-Scanner, follow the steps below:
 
@@ -49,10 +48,16 @@ Access the application by visiting http://localhost:3000 in your web browser.
 Screenshots
 1. UI - Upload Page
 A simple UI to upload the document image for OCR processing.
+![1st WhatsApp Image 2024-11-06 at 16 57 39_be99caa4](https://github.com/user-attachments/assets/46d2e36c-1e80-43c6-b7cd-d0e6e8878832)
 
+2. Upload document
+![2nd pic](https://github.com/user-attachments/assets/7a096bb5-1e09-49e8-a56f-dbb2071c0190)
 
-2. Extracted Data
+![3rd pic ](https://github.com/user-attachments/assets/3abd0837-87fe-4583-a755-1c537c718918)
+
+3. Extracted Data
 After uploading, the extracted data such as name, document number, and dates are displayed.
+![4th pic](https://github.com/user-attachments/assets/cb3b635a-561e-4a05-af00-4a166b16ccd0)
 
 
 3. Data Validation
