@@ -21,7 +21,7 @@ To get started with OCR-Text-Scanner, follow the steps below:
 
 1. Clone the Repository
 Clone the repository to your local machine using:
-git clone https://github.com/yourusername/Document-Capture-OCR-Text-Scanner.git
+git clone https://github.com/arif05khan/Document-Capture-OCR-Text-Scanner.git
 cd Document-Capture-OCR-Text-Scanner
 
 2. Install Backend Dependencies
